@@ -1,0 +1,24 @@
+.wrapper {
+	background-image: url(wallpaper.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding: 18px;
+}
+
+.container {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.jumbotron {
+	background-color: rgba(-61,58,101,0.5);
+    color: white;
+}
+
+.panel-primary {
+	opacity: .9;
+}
+
+.panel-body {
+	background: #EAF3FE;
+}
